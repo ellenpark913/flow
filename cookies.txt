@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+nftinstaconnect.com	TRUE	/	FALSE	1999999999	csrftoken	lb0bP4iuRPV4AxiZsKAvLG1ZI9PipZ6Vy4tkcFeYWtLtVEqzbZvFLOEok9VBMZx1
+nftinstaconnect.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
